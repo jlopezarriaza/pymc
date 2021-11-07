@@ -45,16 +45,22 @@ This ties into our second announcement, which is that we are hereby launching th
 ::::{grid} 1
 :gutter: 1
 
-:::{grid-item-card}  Friendly modelling API
+:::{grid-item}
+
+**Friendly modelling API**
+
 PyMC allows you to write down models using an intuitive syntax to describe a data generating process.
 :::
-:::{grid-item-card}  Cutting edge algorithms and model building blocks
+:::{grid-item}
+
+**Cutting edge algorithms and model building blocks**
+
 Fit your model using gradient-based MCMC algorithms like NUTS, using ADVI for fast approximate inference — including minibatch-ADVI for scaling to large datasets — or using Gaussian processes to build Bayesian nonparametric models.
 :::
 ::::
 :::::
 
-:::::{grid-item-card} As easy as:
+:::::{grid-item}
 
 ```{code-block} python
 ---
